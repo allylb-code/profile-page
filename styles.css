@@ -1,0 +1,30 @@
+@import url( 
+    'https://fonts.googleapis.com/css2?family=Roboto|Pacifico&display=swap'); 
+
+
+h3 {
+    color: gray;
+    background-color: rgb(246, 239, 239);
+    font-family: 'Pacifico';
+}
+
+p {
+    background-color: rgb(246, 239, 239);
+    font-family: 'Pacifico';
+}
+
+.paragraphOne {
+    background-color: rgb(246, 239, 239);
+    font-family: 'Pacifico';
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+  }
+
+  .photos {
+    text-align: center;
+  }
