@@ -1,0 +1,1 @@
+const topOfPage = () => window.scrollTo({top: 0});
